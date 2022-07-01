@@ -19,19 +19,19 @@
 <br/>
 
 #### Tier 2 (for hobbies):
-<img alt="Kubernetes" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" style="float: left; margin-right: 5px;" />
-<img alt="NGINX" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" style="float: left; margin-right: 5px;" />
-<img alt="PostgreSQL" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" style="float: left; margin-right: 5px;" />
-<img alt="Redis" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-plain.svg" style="float: left; margin-right: 5px;" />
-<img alt="pytest" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" style="float: left; margin-right: 5px;"  />
-<img alt="FastAPI" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" style="float: left; margin-right: 5px;"  />
-<img alt="VueJS" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" style="float: left; margin-right: 5px;"  />
-<img alt="Godot" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" style="float: left; margin-right: 5px;"  />
-<img alt="Blender" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" style="float: left; margin-right: 5px;" />
+<img align="left" alt="Kubernetes" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" style="padding-right:10px;" />
+<img align="left" alt="NGINX" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" style="padding-right:10px;" />
+<img align="left" alt="PostgreSQL" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" style="padding-right:10px;" />
+<img align="left" alt="Redis" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-plain.svg" style="padding-right:10px;" />
+<img align="left" alt="pytest" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" style="padding-right:10px;"  />
+<img align="left" alt="FastAPI" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" style="padding-right:10px;"  />
+<img align="left" alt="VueJS" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" style="padding-right:10px;"  />
+<img align="left" alt="Godot" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" style="padding-right:10px;"  />
+<img align="left" alt="Blender" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" style="padding-right:10px;" />
 
 <br/>
 <br/>
 
 #### Tier 3 (learning):
-<img alt="Rust" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" style="float: left; margin-right: 5px;" />
-<img alt="C#" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" style="float: left; margin-right: 5px;" />
+<img align="left" alt="Rust" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" style="padding-right:10px;" />
+<img align="left" alt="C#" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" style="padding-right:10px;" />
