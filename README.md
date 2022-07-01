@@ -4,7 +4,7 @@
 
 ### Languages and tools:
 #### Tier 1 (daily work):
-<img alt="Fedora linux" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" style="float: left; margin-right: 5px;" />
+![Fedora](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg)
 <img alt="Jetbrains tools" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" style="float: left; margin-right: 5px;" />
 <img alt="Git tools" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="float: left; margin-right: 5px;" />
 <img alt="Docker" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" style="float: left; margin-right: 5px;" />
