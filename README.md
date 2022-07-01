@@ -4,16 +4,16 @@
 
 ### Languages and tools:
 #### Tier 1 (daily work):
-<img alt="Fedora linux" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" />
-<img alt="Jetbrains tools" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" />
-<img alt="Git tools" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img alt="Docker" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-<img alt="MySQL" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-<img alt="Python" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  />
-<img alt="Django" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"  />
-<img alt="React" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"  />
-<img alt="CSS3" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"  />
-<img alt="HTML5" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"  />
+[<img alt="Fedora linux" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" />]
+[<img alt="Jetbrains tools" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" />]
+[<img alt="Git tools" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />]
+[<img alt="Docker" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />]
+[<img alt="MySQL" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />]
+[<img alt="Python" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  />]
+[<img alt="Django" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"  />]
+[<img alt="React" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"  />]
+[<img alt="CSS3" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"  />]
+[<img alt="HTML5" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"  />]
 
 <br/>
 <br/>
