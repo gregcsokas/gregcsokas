@@ -1,6 +1,6 @@
-### Hi, I'm Gregő
+# Hi, I'm Gregő
 
-<br>
+## I'm a Web and Game developer, Keyboard enthusiast, Amateur music producer
 
 ### Languages and tools:
 #### Tier 1 (daily work):
@@ -15,8 +15,8 @@
 <img align="left" alt="CSS3" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;"/>
 <img align="left" alt="HTML5" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;"/>
 
-<br/>
-<br/>
+<br />
+<br />
 
 #### Tier 2 (for hobbies):
 <img align="left" alt="Kubernetes" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" style="padding-right:10px;" />
