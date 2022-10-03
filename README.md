@@ -35,3 +35,10 @@
 #### Tier 3 (learning):
 <img align="left" alt="Rust" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" style="padding-right:10px;" />
 <img align="left" alt="C#" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" style="padding-right:10px;" />
+
+
+<br />
+<br />
+
+### Badges:
+<img align="left" alt="Codewars" src="https://www.codewars.com/users/KenguruHUN/badges/small" />
