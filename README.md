@@ -29,12 +29,13 @@
 <img align="left" alt="Godot" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" style="padding-right:10px;"  />
 <img align="left" alt="Blender" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Rust" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" style="padding-right:10px;" />
+<img align="left" alt="Inkscape" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original.svg" style="padding-right:10px;" />
 
 <br/>
 <br/>
 
 #### Tier 3 (learning):
-
+<img align="left" alt="GraphQL" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" style="padding-right:10px;" />
 
 <br />
 <br />
