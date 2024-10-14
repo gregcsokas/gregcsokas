@@ -25,4 +25,4 @@
 [![My Skills](https://skillicons.dev/icons?i=redis,rabbitmq&perline=6)](https://skillicons.dev)
 
 ### Badges:
-<img vertical-align="left" alt="Codewars" src="https://www.codewars.com/users/KenguruHUN/badges/small" />
+<img vertical-align="left" alt="Codewars" src="https://www.codewars.com/users/gregcsokas/badges/small" />
