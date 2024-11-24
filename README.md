@@ -1,5 +1,5 @@
 # Hi, I'm Gregő 👋
-<p align="center">
+  
 ### Languages
 [![My Skills](https://skillicons.dev/icons?i=python,rust,js,bash,html,css)](https://skillicons.dev)
 
@@ -17,6 +17,6 @@
 
 ### Game Development
 [![My Skills](https://skillicons.dev/icons?i=bevy,godot)](https://skillicons.dev)
-</p>
+
 ### Badges:
 <img vertical-align="left" alt="Codewars" src="https://www.codewars.com/users/gregcsokas/badges/small" />
