@@ -19,7 +19,7 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,vue,react,angular&perline=6)](https://skillicons.dev)
 
 ### `Gamedev`
-[![My Skills](https://skillicons.dev/icons?i=rust,godot&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=rust,bevy,godot&perline=6)](https://skillicons.dev)
 
 ### `MQ`
 [![My Skills](https://skillicons.dev/icons?i=redis,rabbitmq&perline=6)](https://skillicons.dev)
