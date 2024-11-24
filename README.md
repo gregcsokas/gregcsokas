@@ -1,5 +1,5 @@
 # Hi, I'm Gregő 👋
-
+<p align="center">
 ### Languages
 [![My Skills](https://skillicons.dev/icons?i=python,rust,js,bash,html,css)](https://skillicons.dev)
 
@@ -13,10 +13,10 @@
 [![My Skills](https://skillicons.dev/icons?i=docker,jenkins,github,nginx,caddy)](https://skillicons.dev)
 
 ### IDEs & Tools
-[![My Skills](https://skillicons.dev/icons?i=clion,pycharm,goland,rustrover,webstorm,linux,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=clion,pycharm,webstorm,linux,git)](https://skillicons.dev)
 
 ### Game Development
 [![My Skills](https://skillicons.dev/icons?i=bevy,godot)](https://skillicons.dev)
-
+</p>
 ### Badges:
 <img vertical-align="left" alt="Codewars" src="https://www.codewars.com/users/gregcsokas/badges/small" />
