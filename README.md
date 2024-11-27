@@ -1,7 +1,7 @@
 # Hi, I'm Gregő 👋
   
 ### Languages
-[![My Skills](https://skillicons.dev/icons?i=python,rust,js,bash,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,rust,go,js,bash,html,css)](https://skillicons.dev)
 
 ### Frameworks & Libraries
 [![My Skills](https://skillicons.dev/icons?i=django,fastapi,react,vue,jquery)](https://skillicons.dev)
