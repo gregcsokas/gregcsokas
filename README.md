@@ -10,7 +10,7 @@
 [![My Skills](https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis)](https://skillicons.dev)
 
 ### DevOps & Cloud
-[![My Skills](https://skillicons.dev/icons?i=docker,jenkins,github,nginx,caddy)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,aws,jenkins,github,nginx,caddy)](https://skillicons.dev)
 
 ### IDEs & Tools
 [![My Skills](https://skillicons.dev/icons?i=clion,pycharm,webstorm,linux,git)](https://skillicons.dev)
